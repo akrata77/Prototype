@@ -172,6 +172,25 @@
             }
         },
         {
+            "Key": "510068c9-f13d-4986-991f-a5e1fb92621c",
+            "Value": {
+                "id": "e7cc7c4f-71d5-47f5-9652-58bab1e3df5d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/scrProcessPlayer\/scrProcessPlayer.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "588ed7a8-4a62-4577-9422-7b724a9c91e6",
             "Value": {
                 "id": "19c002a4-e6b1-4d59-ab78-d9f892a77170",
@@ -207,6 +226,25 @@
                 ],
                 "resourcePath": "views\/60325b77-a1af-43a5-8eb4-9188ea44bd80.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "697c5bbb-5aaf-4ec6-af79-a5b6ee6595a8",
+            "Value": {
+                "id": "b0733c09-f0f5-42eb-9faf-0822a95d63ba",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oGame\/oGame.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -281,7 +319,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/Gokuuu\/Gokuuu.yy",
+                "resourcePath": "objects\/oPlayer\/oPlayer.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -509,7 +547,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sprite4\/sprite4.yy",
+                "resourcePath": "sprites\/sCollision\/sCollision.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -531,10 +569,29 @@
                 "resourcePath": "sprites\/sprite1\/sprite1.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "fd151407-b24c-481a-8dcd-5e68b61743cf",
+            "Value": {
+                "id": "75434165-e5b2-4bba-8cb9-c1ade63d5054",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "tilesets\/tCollision\/tCollision.yy",
+                "resourceType": "GMTileSet"
+            }
         }
     ],
     "script_order": [
-        
+        "510068c9-f13d-4986-991f-a5e1fb92621c"
     ],
     "tutorial": ""
 }
