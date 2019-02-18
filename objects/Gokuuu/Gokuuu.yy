@@ -5,16 +5,6 @@
     "name": "Gokuuu",
     "eventList": [
         {
-            "id": "f82c1ab6-19cb-488b-8896-7c31c9c07ffa",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 39,
-            "eventtype": 9,
-            "m_owner": "9a918663-1c2b-45f5-8606-83b940154ba1"
-        },
-        {
             "id": "9cfcee2b-8e07-41e7-a7d7-3540713adfec",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -92,6 +82,36 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 40,
             "eventtype": 10,
+            "m_owner": "9a918663-1c2b-45f5-8606-83b940154ba1"
+        },
+        {
+            "id": "1c48f8b6-07ee-4db6-ab07-242a6580cb55",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "9a918663-1c2b-45f5-8606-83b940154ba1"
+        },
+        {
+            "id": "5d30b8b9-4994-4cb0-a8f3-ede970e470d3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "008fa9bd-1b32-4d04-bcfb-3149531a6ad2",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "9a918663-1c2b-45f5-8606-83b940154ba1"
+        },
+        {
+            "id": "082d968c-2f89-4321-ae3d-1ea62783972b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 39,
+            "eventtype": 5,
             "m_owner": "9a918663-1c2b-45f5-8606-83b940154ba1"
         }
     ],
